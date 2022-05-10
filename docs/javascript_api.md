@@ -4,6 +4,14 @@ You can run Cucumber programmatically via its JavaScript API. This isn't somethi
 
 The API is available on its own entry point `@cucumber/cucumber/api`.
 
+TOC:
+
+- Environment
+- loadConfiguration
+- runCucumber
+- loadSources
+- loadSupport
+
 There are some examples below, and [reference documentation](./api/index.md) for everything available.
 
 ## Simple example
